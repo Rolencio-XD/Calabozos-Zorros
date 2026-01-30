@@ -187,6 +187,7 @@ def UG_room_3():
             print("no tienes ninguna llave, vuelves al pasillo")
             UG_room_2()
     else:
+        print("entás en la habitación con la puerta con llave abierta")
         eleccion = input("que harás? (entrar/pasillo): ").lower()
         if eleccion == "entrar":
             UG_room_3_1()

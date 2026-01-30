@@ -1,4 +1,5 @@
 # CALABOZOS & ZORROS 🦊🏰
+![alt text](<calabozos y zorros-1.png>)
 
 Bienvenido a **Calabozos & Zorros**, un juego de texto hecho en Python como proyecto de práctica.
 El juego consiste en explorar una dungeon tomando decisiones para avanzar y descubrir qué sucede.
